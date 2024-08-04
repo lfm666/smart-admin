@@ -26,6 +26,7 @@ public class AsyncConfig {
 
     /**
      * 线程池 配置bean名称
+     *
      */
     public static final String ASYNC_EXECUTOR_THREAD_NAME = "smart-async-executor";
 
